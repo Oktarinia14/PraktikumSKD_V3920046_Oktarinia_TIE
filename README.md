@@ -1,0 +1,2 @@
+# PraktikumSKD_V3920046_Oktarinia_TIE
+Pengumpulan penugasan praktikum sistem keamanan data
